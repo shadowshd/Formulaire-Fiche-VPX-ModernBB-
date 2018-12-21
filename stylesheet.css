@@ -19,9 +19,9 @@ a {
   font-size:11pt;
   font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
   text-align:left;
-  background: linear-gradient(#F8F8F8, #101010);
+  background: linear-gradient(#F8F8F8, #F0F0F0);
   border:2px solid #62627F;
-  color:#aaa;
+  color:#222;
   max-width:800px;
   width:auto;
 }
